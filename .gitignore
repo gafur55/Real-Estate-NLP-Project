@@ -1,2 +1,5 @@
 src/checkpoints/
-checkpoints.json
+*.json
+data/
+venv/
+overall_view_of_project.txt
